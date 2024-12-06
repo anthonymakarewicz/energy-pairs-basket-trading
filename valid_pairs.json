@@ -1,0 +1,96 @@
+{
+    "statistical_pairs": {
+        "Pair1": [
+            "SHEL",
+            "HG=F"
+        ],
+        "Pair2": [
+            "TTE",
+            "XLE"
+        ],
+        "Pair3": [
+            "SHEL",
+            "BZ=F"
+        ],
+        "Pair4": [
+            "SHEL",
+            "CL=F"
+        ],
+        "Pair5": [
+            "TTE",
+            "BP"
+        ],
+        "Pair6": [
+            "SHEL",
+            "BP"
+        ],
+        "Pair7": [
+            "NG=F",
+            "TAN"
+        ],
+        "Pair8": [
+            "SHEL",
+            "UGA"
+        ],
+        "Pair9": [
+            "SHEL",
+            "RB=F"
+        ],
+        "Pair10": [
+            "TTE",
+            "ALI=F"
+        ],
+        "Pair11": [
+            "SHEL",
+            "ALI=F"
+        ],
+        "Pair12": [
+            "HO=F",
+            "CL=F"
+        ],
+        "Pair13": [
+            "URA",
+            "HG=F"
+        ],
+        "Pair14": [
+            "HO=F",
+            "BZ=F"
+        ],
+        "Pair15": [
+            "SHEL",
+            "HO=F"
+        ],
+        "Pair16": [
+            "CL=F",
+            "RB=F"
+        ],
+        "Pair17": [
+            "BZ=F",
+            "RB=F"
+        ]
+    },
+    "economic_pairs": {
+        "Pair1": [
+            "CL=F",
+            "USO"
+        ],
+        "Pair2": [
+            "ALI=F",
+            "NG=F"
+        ],
+        "Pair3": [
+            "CL=F",
+            "NG=F",
+            "XOP"
+        ],
+        "Pair4": [
+            "CL=F",
+            "HO=F",
+            "RB=F"
+        ],
+        "Pair5": [
+            "BZ=F",
+            "SHEL"
+        ]
+    }
+}
