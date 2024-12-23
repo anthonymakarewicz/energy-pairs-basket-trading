@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: Pairs-trading
-Version: 0.1
-Summary: A simpel pairs trading project
-Author: Anthony Makarewicz
-Author-email: anthonymakarewicz@gmail.com
-Requires-Python: >=3.6
