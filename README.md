@@ -91,12 +91,11 @@ perf.getMetrics()
 ## Notebooks / Analysis
 The following Jupyter notebooks provide in-depth exploratory data analysis (EDA) and model evaluation:
 
-- **`time_series_analysis.ipynb`** – Present key elements such as random walk, white noise to present cointegration   
-- **`pairs_selection.ipynb`** – Present the assets used and present the pairs selection process.  
-- **`pairs_trading.ipynb`** – Explain the idea of pair trading and provide the backtest results.  
+- **`time_series_analysis.ipynb`** –  Demonstrates key concepts like **random walk** and **white noise** to introduce **cointegration**.  
+- **`pairs_selection.ipynb`** –  Outlines the assets used and details the **pair selection** process. 
+- **`pairs_trading.ipynb`** –  Explains the **pair trading strategy** and presents **backtest results**. 
 
 For more detailed insights and plots, please refer to the notebooks directly.
-
 
 ## Results
 Here is an example of the backtesting results between all trading strategies for the crack spread
